@@ -1,0 +1,16 @@
+# Git
+.git/
+.gitmodules
+
+# Subversion
+.svn/
+
+# Mercurial
+.hg/*
+*/.hg/*
+.hgignore
+
+**/*.iml
+*.iml
+
+.idea
